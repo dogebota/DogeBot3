@@ -5,7 +5,7 @@
 //© 2022 Xeon Bot Inc. Doge Bot 
 //Thank you to Lord Buddha, Family and Myself
 //═══════════════════════════════════════════════════════//
-const
+constM.M.Đ.AĐĒĒSHA IŁSHAN😇
 	{
 		WAConnection,
 		MessageType,
